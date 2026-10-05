@@ -1,0 +1,16 @@
+{
+  "experiment": "F",
+  "n_documents": 12,
+  "best_k": 7,
+  "best_silhouette": 0.0163565706461668,
+  "names": {
+    "0": "01_machine_learning.txt",
+    "1": "03_databases.txt",
+    "2": "06_linear_algebra.txt",
+    "3": "07_photosynthesis.txt",
+    "4": "02_operating_systems.txt",
+    "5": "05_calculus.txt",
+    "6": "08_algorithms.txt"
+  },
+  "notes": "K chosen by silhouette on TF-IDF document vectors. Cluster names are filenames/keywords, not claimed academic labels."
+}

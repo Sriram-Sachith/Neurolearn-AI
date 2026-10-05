@@ -1,0 +1,8 @@
+Lecture notes — Memory Management
+Page 1
+Paging divides memory into fixed-size pages. A page fault occurs when the needed page is not in RAM.
+Replacement policies include LRU, FIFO and clock. Thrashing happens when the working set does not fit in memory.
+
+Page 2
+Segmentation divides address space into variable-sized logical units. Fragmentation can be internal or external.
+Copy-on-write shares pages between processes until a write occurs.

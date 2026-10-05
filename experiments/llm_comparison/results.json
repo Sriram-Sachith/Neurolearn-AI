@@ -1,0 +1,47 @@
+{
+  "experiment": "A",
+  "notes": "Human rubric scores are omitted until a reviewer scores a sample. Numbers below are measured generation stats only. Ollama models appear only if they answered /api/tags on this machine.",
+  "environment": {
+    "python": "3.10.11"
+  },
+  "runs": [
+    {
+      "model": "heuristic-extractor",
+      "family": "heuristic",
+      "latency_ms": 0.201,
+      "output_chars": 807,
+      "n_chapters": 1,
+      "n_key_points": 8
+    },
+    {
+      "model": "heuristic-alt",
+      "family": "heuristic-v2",
+      "latency_ms": 0.05,
+      "output_chars": 651,
+      "n_chapters": 1,
+      "n_key_points": 6
+    }
+  ],
+  "providers_seen": [
+    {
+      "name": "heuristic-extractor",
+      "family": "heuristic",
+      "available": true
+    },
+    {
+      "name": "heuristic-alt",
+      "family": "heuristic-v2",
+      "available": true
+    },
+    {
+      "name": "qwen2.5:3b-instruct",
+      "family": "qwen",
+      "available": false
+    },
+    {
+      "name": "gemma2:2b-instruct",
+      "family": "gemma",
+      "available": false
+    }
+  ]
+}

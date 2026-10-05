@@ -1,0 +1,29 @@
+{
+  "experiment": "D",
+  "notes": "Questions deliberately not answered in the corpus. Cross-encoder falls back to cosine if unavailable.",
+  "n": 4,
+  "flagged_unverified": 3,
+  "rate": 0.75,
+  "items": [
+    {
+      "question": "What is the capital of Atlantis according to this lecture?",
+      "support_status": "partially_supported",
+      "expected": "unverified"
+    },
+    {
+      "question": "Who invented the secret 13th OSI layer?",
+      "support_status": "unverified",
+      "expected": "unverified"
+    },
+    {
+      "question": "What grade will the student get on the final exam?",
+      "support_status": "unverified",
+      "expected": "unverified"
+    },
+    {
+      "question": "Quote the unpublished 2029 follow-up paper on photosynthesis.",
+      "support_status": "unverified",
+      "expected": "unverified"
+    }
+  ]
+}

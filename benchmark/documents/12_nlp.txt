@@ -1,0 +1,9 @@
+Lecture notes — Introduction to NLP
+Page 1
+Tokenisation splits text into words or subwords. A bag-of-words model ignores word order and counts tokens.
+TF-IDF down-weights terms that appear in many documents. Word embeddings place similar words nearby in vector space.
+
+Page 2
+Named entity recognition labels people, places and organisations. A language model assigns probabilities to sequences of tokens.
+Attention lets a model weigh relevant positions when producing an output.
+Transformer encoders stack self-attention and feed-forward layers.

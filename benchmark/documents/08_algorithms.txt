@@ -1,0 +1,10 @@
+Lecture notes — Algorithms
+Page 1
+A graph is a set of vertices connected by edges. Breadth-first search explores neighbours level by level.
+Depth-first search explores as far as possible along each branch before backtracking.
+Dijkstra's algorithm finds shortest paths from a source in a weighted graph with non-negative weights.
+
+Page 2
+Dynamic programming solves overlapping subproblems by storing intermediate results.
+The knapsack problem asks which items maximise value under a weight budget.
+Time complexity of binary search on a sorted array is O(log n).

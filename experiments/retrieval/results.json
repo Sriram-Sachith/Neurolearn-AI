@@ -1,0 +1,14 @@
+{
+  "experiment": "C",
+  "notes": "TF-IDF + cosine on lecture pages. Recall@5 is 1 if any gold page is in the top 5.",
+  "n_queries": 9,
+  "models": [
+    {
+      "name": "tfidf",
+      "recall_at_5": 1.0,
+      "mrr": 1.0,
+      "latency_ms_median": 0.129,
+      "latency_ms_stdev": 0.041
+    }
+  ]
+}

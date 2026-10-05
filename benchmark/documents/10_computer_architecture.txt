@@ -1,0 +1,9 @@
+Lecture notes — Computer Architecture
+Page 1
+The CPU fetches, decodes and executes instructions. Registers are small fast storage inside the processor.
+Caches sit between registers and main memory to hide DRAM latency. Spatial locality means nearby addresses are used together.
+
+Page 2
+Pipelining overlaps stages of instruction execution. Hazards stall or flush the pipeline.
+Virtual memory maps virtual addresses to physical frames using a page table.
+An interrupt is a signal that causes the processor to switch to a handler.

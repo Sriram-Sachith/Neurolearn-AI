@@ -1,0 +1,7 @@
+Operating Systems — Processes and Scheduling
+A process is a program in execution with its own address space.
+Threads share the process address space but have separate stacks.
+CPU scheduling decides which ready process runs next.
+Round-robin scheduling uses a time quantum. Priority scheduling may starve low-priority work.
+A deadlock is a circular wait for resources. The four Coffman conditions are mutual exclusion, hold and wait, no preemption, and circular wait.
+Virtual memory maps virtual addresses to physical frames using a page table.

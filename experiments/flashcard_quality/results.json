@@ -1,0 +1,90 @@
+{
+  "experiment": "B",
+  "notes": "Approach C-like: heuristic cards + TF-IDF evidence. Direct LLM comparison requires Ollama.",
+  "metrics": [
+    {
+      "document": "01_machine_learning.txt",
+      "n_cards": 12,
+      "duplicate_rate": 0.0,
+      "source_support_rate": 0.0,
+      "latency_ms": 0.32
+    },
+    {
+      "document": "02_operating_systems.txt",
+      "n_cards": 8,
+      "duplicate_rate": 0.0,
+      "source_support_rate": 0.0,
+      "latency_ms": 0.135
+    },
+    {
+      "document": "03_databases.txt",
+      "n_cards": 8,
+      "duplicate_rate": 0.0,
+      "source_support_rate": 0.0,
+      "latency_ms": 0.176
+    },
+    {
+      "document": "04_networks.txt",
+      "n_cards": 8,
+      "duplicate_rate": 0.0,
+      "source_support_rate": 0.0,
+      "latency_ms": 0.073
+    },
+    {
+      "document": "05_calculus.txt",
+      "n_cards": 6,
+      "duplicate_rate": 0.0,
+      "source_support_rate": 0.0,
+      "latency_ms": 0.1
+    },
+    {
+      "document": "06_linear_algebra.txt",
+      "n_cards": 6,
+      "duplicate_rate": 0.0,
+      "source_support_rate": 0.0,
+      "latency_ms": 0.033
+    },
+    {
+      "document": "07_photosynthesis.txt",
+      "n_cards": 5,
+      "duplicate_rate": 0.0,
+      "source_support_rate": 0.0,
+      "latency_ms": 0.185
+    },
+    {
+      "document": "08_algorithms.txt",
+      "n_cards": 7,
+      "duplicate_rate": 0.0,
+      "source_support_rate": 0.0,
+      "latency_ms": 0.246
+    },
+    {
+      "document": "09_probability.txt",
+      "n_cards": 8,
+      "duplicate_rate": 0.0,
+      "source_support_rate": 0.125,
+      "latency_ms": 0.193
+    },
+    {
+      "document": "10_computer_architecture.txt",
+      "n_cards": 8,
+      "duplicate_rate": 0.0,
+      "source_support_rate": 0.125,
+      "latency_ms": 0.18
+    },
+    {
+      "document": "11_memory_management.txt",
+      "n_cards": 7,
+      "duplicate_rate": 0.0,
+      "source_support_rate": 0.1429,
+      "latency_ms": 0.191
+    },
+    {
+      "document": "12_nlp.txt",
+      "n_cards": 8,
+      "duplicate_rate": 0.0,
+      "source_support_rate": 0.125,
+      "latency_ms": 0.259
+    }
+  ]
+}

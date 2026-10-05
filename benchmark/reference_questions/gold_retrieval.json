@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "document": "01_machine_learning.txt",
+      "question": "What is supervised learning?",
+      "gold_pages": [1]
+    },
+    {
+      "document": "01_machine_learning.txt",
+      "question": "How is precision defined?",
+      "gold_pages": [3]
+    },
+    {
+      "document": "01_machine_learning.txt",
+      "question": "What does overfitting mean?",
+      "gold_pages": [3]
+    },
+    {
+      "document": "02_operating_systems.txt",
+      "question": "What is a process?",
+      "gold_pages": [1]
+    },
+    {
+      "document": "03_databases.txt",
+      "question": "What is a transaction?",
+      "gold_pages": [1]
+    },
+    {
+      "document": "04_networks.txt",
+      "question": "What does TCP provide?",
+      "gold_pages": [1]
+    },
+    {
+      "document": "05_calculus.txt",
+      "question": "What is a derivative?",
+      "gold_pages": [1]
+    },
+    {
+      "document": "06_linear_algebra.txt",
+      "question": "What is an eigenvector?",
+      "gold_pages": [1]
+    },
+    {
+      "document": "07_photosynthesis.txt",
+      "question": "Where do the light-dependent reactions occur?",
+      "gold_pages": [1]
+    }
+  ]
+}

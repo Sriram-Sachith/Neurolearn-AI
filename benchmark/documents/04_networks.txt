@@ -1,0 +1,6 @@
+Computer Networks
+The OSI model has seven layers. TCP provides reliable byte streams. UDP is datagram oriented.
+IP routes packets between networks. A router forwards based on destination prefixes.
+DNS maps domain names to IP addresses.
+HTTP is an application protocol for transferring hypertext.
+Congestion control reduces sending rate when the network is overloaded.

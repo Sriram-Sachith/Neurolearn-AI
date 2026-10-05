@@ -1,0 +1,5 @@
+Linear Algebra
+A matrix is a rectangular array of numbers. Matrix multiplication is not commutative in general.
+An eigenvector v of A satisfies A v = lambda v. The determinant is zero iff the matrix is singular.
+A vector space is closed under addition and scalar multiplication.
+The rank of a matrix is the dimension of its column space.

@@ -1,0 +1,25 @@
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+sqlalchemy==2.0.36
+alembic==1.14.0
+pydantic==2.10.4
+pydantic-settings==2.7.0
+python-multipart==0.0.20
+python-jose[cryptography]==3.3.0
+httpx==0.28.1
+numpy==2.2.1
+scikit-learn==1.6.0
+PyMuPDF==1.25.1
+python-pptx==1.0.2
+python-docx==1.1.2
+pillow==11.0.0
+pytesseract==0.3.13
+psycopg2-binary==2.9.10
+pytest==8.3.4
+pytest-asyncio==0.25.0
+
+# Optional heavy ML stack — install extras when you have disk and RAM:
+# sentence-transformers
+# keybert
+# faiss-cpu
+# torch

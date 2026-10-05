@@ -1,0 +1,12 @@
+{
+  "generated_by": "experiments/run_all.py",
+  "contains_human_rubric": false,
+  "files": [
+    "experiments/retrieval/results.json",
+    "experiments/retrieval/hallucination.json",
+    "experiments/llm_comparison/clustering.json",
+    "experiments/flashcard_quality/results.json",
+    "experiments/llm_comparison/results.json",
+    "experiments/performance/results.json"
+  ]
+}

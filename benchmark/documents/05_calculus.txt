@@ -1,0 +1,5 @@
+Calculus I
+A derivative measures instantaneous rate of change.
+The derivative of x^2 is 2x. Limits describe values a function approaches.
+The integral of a rate recovers accumulated quantity. The fundamental theorem of calculus links derivatives and integrals.
+A critical point occurs where the derivative is zero or undefined.

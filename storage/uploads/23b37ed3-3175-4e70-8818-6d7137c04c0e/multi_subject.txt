@@ -1,0 +1,23 @@
+Lecture notes — Introduction to Machine Learning
+Page 1
+Supervised learning is a machine learning approach that learns from labelled training data.
+The goal is to map inputs to known outputs so that unseen examples can be predicted.
+Classification assigns discrete class labels. Regression predicts continuous numeric targets.
+
+Page 2
+Unsupervised learning finds structure without labels. Clustering groups similar examples.
+Dimensionality reduction compresses features while preserving variation.
+K-means is a clustering algorithm that minimises within-cluster squared error.
+
+Page 3
+Model evaluation uses precision, recall and the F1 score.
+Precision is the fraction of retrieved instances that are relevant.
+Recall is the fraction of relevant instances that were retrieved.
+Overfitting happens when a model memorises training examples instead of generalising.
+Relational Databases
+A relational database stores data in tables with rows and columns.
+Primary keys uniquely identify rows. Foreign keys reference other tables.
+Normalisation reduces redundancy. Third normal form removes transitive dependencies.
+ACID transactions provide atomicity, consistency, isolation and durability.
+B+ tree indexes speed equality and range lookups.
+SQL SELECT retrieves rows that match a WHERE predicate.

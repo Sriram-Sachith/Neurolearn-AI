@@ -1,0 +1,7 @@
+Relational Databases
+A relational database stores data in tables with rows and columns.
+Primary keys uniquely identify rows. Foreign keys reference other tables.
+Normalisation reduces redundancy. Third normal form removes transitive dependencies.
+ACID transactions provide atomicity, consistency, isolation and durability.
+B+ tree indexes speed equality and range lookups.
+SQL SELECT retrieves rows that match a WHERE predicate.

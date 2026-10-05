@@ -1,0 +1,6 @@
+Photosynthesis in Plants
+Photosynthesis converts light energy into chemical energy stored in sugars.
+Chlorophyll absorbs mainly blue and red light.
+The light-dependent reactions occur in the thylakoid membrane and produce ATP and NADPH.
+The Calvin cycle fixes carbon dioxide into carbohydrates in the stroma.
+Water is split, releasing oxygen as a by-product.
